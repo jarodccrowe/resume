@@ -1,28 +1,39 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<p>
 Jarod Colquhoun Crowe
 Development & Product Management
-
+</p>
+<p>
 114/18 Danks St
 Waterloo
 Sydney
 2017
-
+</p>
+<p>
 jarodccrowe@gmail.com
 0474 241 111
 au.linkedin.com/in/jarodccrowe
-
-
+</p>
+<p>
 Professional Profile
 A keen technologist, I have worked in three startup companies as well as quite a bit of agency work. I love products - new products, old products, products that excel and products that fail. I love to decipher why something worked and why something did not. I love experiencing the sharp business acumen that allows a company to bring something to market and make it work. I love to build amazing things and to do so in amazing teams with great people.
-
-
+</p>
+<p>
 Currently I am working for a startup called ditno. We have built a system that allows businesses, anywhere from small to enterprise, to have bleeding edge security at a much cheaper price point, in a flexible manner across their entire network.
 This has been achieved through recognition of a lagging industry, that is no longer able to meet demands of modern semi-cloud based companies, along with countless hours of scrutiny as to how we can solve security issues better than they have ever been before.
-
-
+</p>
+<p>
 My role within the company is multifaceted. I was hired to decide what to do with the management portal, which is used to deliver, setup and administrate the entire product. This was my second heavily product management based job and I enjoyed the challenge immensely.
 In the end we executed a complete rebuild, using a react redux stack, within 3 months. Today we have a solid product that works flawlessly and allows building and continuous change with ease. In building this I managed some external consultants including a product designer, UI designer, and additional coder. I also learned react and redux with es6, and have lately started exploring backend apis more with graphQL and relay. I explored many ways to solve our problems and am quite proud of the outcome. We have since been able to secure some very high profile clients. Additionally, I do a lot of the writing and finalising marketing documents and presentations, attend sales calls, and spend many hours talking (including late night arguing) and studying about security, our company and our product.
-
-
+</p>
+<p>
 In my spare time I do a lot of research and reading / contributing in technology spaces as well as developing private websites and systems for contracts. I have enjoyed providing feedback for people on their startups, apps and websites. I pride myself on being able to understand what a business needs to do to succeed, but I’m still learning every day and loving soaking information in from any source I can.
 
 
